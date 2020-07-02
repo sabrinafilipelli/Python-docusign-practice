@@ -3,6 +3,8 @@
 ### Github repo: MyUniSampleApp
 
 ## Introduction
+This is a sample app using the original code from Inbar Gazit, which can be found here: https://github.com/docusign/sample-app-myuni-python
+
 MyUni is a DocuSign sample application written in Python 3.7 (server) and React (client). You can find a live instance running at [https://myunisample.esigndemos.com/](https://myunisample.esigndemos.com/).
  
 MyUni demonstrates the following:
